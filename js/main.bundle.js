@@ -6495,7 +6495,7 @@ function initIndex() {
       {
         id: 0,
         tag: "en",
-        href: "/categories/",
+        href: "/blog.github.io/categories/",
         title: "Categories",
         description: "",
         
@@ -6508,7 +6508,7 @@ function initIndex() {
       {
         id: 1,
         tag: "en",
-        href: "/posts/coachinglife/",
+        href: "/blog.github.io/posts/coachinglife/",
         title: "CoachingLife",
         description: "este es el contenido",
         
@@ -6521,7 +6521,7 @@ function initIndex() {
       {
         id: 2,
         tag: "en",
-        href: "/posts/",
+        href: "/blog.github.io/posts/",
         title: "Posts",
         description: "",
         
@@ -6534,7 +6534,7 @@ function initIndex() {
       {
         id: 3,
         tag: "en",
-        href: "/tags/",
+        href: "/blog.github.io/tags/",
         title: "Tags",
         description: "",
         
@@ -6547,7 +6547,7 @@ function initIndex() {
       {
         id: 4,
         tag: "en",
-        href: "/",
+        href: "/blog.github.io/",
         title: "Welcome to Hinode!",
         description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
         
