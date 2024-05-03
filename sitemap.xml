@@ -2,17 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lolivera86.github.io/blog.github.io/posts/coachinglife/</loc>
-    <lastmod>2024-05-03T11:21:45+02:00</lastmod>
+    <loc>http://localhost:1313/blog.github.io/tags/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lolivera86.github.io/blog.github.io/posts/</loc>
-    <lastmod>2024-05-03T11:21:45+02:00</lastmod>
+    <loc>http://localhost:1313/blog.github.io/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lolivera86.github.io/blog.github.io/</loc>
-    <lastmod>2024-05-03T11:21:45+02:00</lastmod>
+    <loc>http://localhost:1313/blog.github.io/blog/fourth-post/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lolivera86.github.io/blog.github.io/categories/</loc>
+    <loc>http://localhost:1313/blog.github.io/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lolivera86.github.io/blog.github.io/tags/</loc>
+    <loc>http://localhost:1313/blog.github.io/tags/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/blog/third-post/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/blog/second-post/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/blog/first-post/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/about/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/projects/another-project/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/tags/css/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/tags/golang/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/tags/html/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/tags/javascript/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/projects/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/projects/sample-project/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog.github.io/categories/</loc>
   </url>
 </urlset>

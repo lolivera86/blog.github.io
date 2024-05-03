@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Hinode! on Coaching con ciencia</title>
-    <link>https://lolivera86.github.io/blog.github.io/</link>
-    <description>Recent content in Welcome to Hinode! on Coaching con ciencia</description>
+    <title>Hola to Hinode! on Coaching con ciencia</title>
+    <link>http://localhost:1313/blog.github.io/</link>
+    <description>Recent content in Hola to Hinode! on Coaching con ciencia</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2024 11:21:45 +0200</lastBuildDate>
-    <atom:link href="https://lolivera86.github.io/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CoachingLife</title>
-      <link>https://lolivera86.github.io/blog.github.io/posts/coachinglife/</link>
-      <pubDate>Fri, 03 May 2024 11:21:45 +0200</pubDate>
-      <guid>https://lolivera86.github.io/blog.github.io/posts/coachinglife/</guid>
-      <description>este es el contenido</description>
+      <title>Fourth post (excluded from search)</title>
+      <link>http://localhost:1313/blog.github.io/blog/fourth-post/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/blog/fourth-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus libero in felis accumsan, vitae imperdiet metus vehicula. Quisque nec dignissim purus.</description>
+    </item>
+    <item>
+      <title>Third post</title>
+      <link>http://localhost:1313/blog.github.io/blog/third-post/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/blog/third-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in.</description>
+    </item>
+    <item>
+      <title>Second post</title>
+      <link>http://localhost:1313/blog.github.io/blog/second-post/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/blog/second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum.</description>
+    </item>
+    <item>
+      <title>First post</title>
+      <link>http://localhost:1313/blog.github.io/blog/first-post/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/blog/first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum.</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/blog.github.io/about/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/about/</guid>
+      <description>&amp;nbsp; Bootstrap framework&#xA;Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. &amp;nbsp; Full text search</description>
+    </item>
+    <item>
+      <title>Another project</title>
+      <link>http://localhost:1313/blog.github.io/projects/another-project/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/projects/another-project/</guid>
+      <description>Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis.</description>
+    </item>
+    <item>
+      <title>Sample project</title>
+      <link>http://localhost:1313/blog.github.io/projects/sample-project/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/projects/sample-project/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
   </channel>
 </rss>

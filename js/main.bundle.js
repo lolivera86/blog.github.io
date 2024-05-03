@@ -55,7 +55,7 @@ const addCopyButtons = (clipboard) => {
     const button = document.createElement('button')
     button.className = 'clipboard-button'
     button.setAttribute('data-toast-target', 'toast-copied-code-message')
-    button.setAttribute('aria-label', 'copy to clipboard')
+    button.setAttribute('aria-label', 'copiar al portapapeles')
     button.type = 'button'
     button.innerHTML = svgCopy
     button.addEventListener('click', () => {
@@ -6494,7 +6494,46 @@ function initIndex() {
       
       {
         id: 0,
-        tag: "en",
+        tag: "es",
+        href: "/blog.github.io/projects/another-project/",
+        title: "Another project",
+        description: "Another project.",
+        
+        
+        content: "Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis. Nunc ut libero sapien. Vivamus aliquam ultrices vestibulum. Sed sit amet vestibulum dolor, ut vehicula diam. Sed felis purus, feugiat vitae vulputate quis, sodales vitae dui. Pellentesque volutpat fringilla sapien varius condimentum. Integer odio massa, pharetra at bibendum vitae, aliquam nec erat."
+      })
+      .add(
+      
+      
+      {
+        id: 1,
+        tag: "es",
+        href: "/blog.github.io/tags/blog/",
+        title: "Blog",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 2,
+        tag: "es",
+        href: "/blog.github.io/blog/",
+        title: "Blog",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 3,
+        tag: "es",
         href: "/blog.github.io/categories/",
         title: "Categories",
         description: "",
@@ -6506,23 +6545,10 @@ function initIndex() {
       
       
       {
-        id: 1,
-        tag: "en",
-        href: "/blog.github.io/posts/coachinglife/",
-        title: "CoachingLife",
-        description: "este es el contenido",
-        
-        
-        content: "este es el contenido"
-      })
-      .add(
-      
-      
-      {
-        id: 2,
-        tag: "en",
-        href: "/blog.github.io/posts/",
-        title: "Posts",
+        id: 4,
+        tag: "es",
+        href: "/blog.github.io/tags/css/",
+        title: "Css",
         description: "",
         
         
@@ -6532,8 +6558,125 @@ function initIndex() {
       
       
       {
-        id: 3,
-        tag: "en",
+        id: 5,
+        tag: "es",
+        href: "/blog.github.io/blog/first-post/",
+        title: "First post",
+        description: "This is my first blog post.",
+        
+        
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.\nIn ac lobortis diam. Curabitur id dui ac nunc mattis rhoncus a sed lorem. Sed lobortis sem turpis, at posuere enim dignissim et. Vivamus fermentum justo quis volutpat volutpat. Proin eget vehicula neque, ut tempus urna. Duis ac ex vel leo pharetra lobortis et vitae lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Suspendisse ullamcorper ultrices elementum. Suspendisse mi elit, commodo at varius a, cursus a ligula. Sed et mattis elit, eu luctus arcu. Cras a porttitor libero. Vestibulum tincidunt sed magna at dapibus. Sed quis orci eu lacus aliquam tristique. Integer porttitor ultrices ipsum quis porttitor. Etiam a sodales ligula."
+      })
+      .add(
+      
+      
+      {
+        id: 6,
+        tag: "es",
+        href: "/blog.github.io/tags/golang/",
+        title: "Golang",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 7,
+        tag: "es",
+        href: "/blog.github.io/",
+        title: "Hola to Hinode!",
+        description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 8,
+        tag: "es",
+        href: "/blog.github.io/tags/html/",
+        title: "Html",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 9,
+        tag: "es",
+        href: "/blog.github.io/tags/javascript/",
+        title: "Javascript",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 10,
+        tag: "es",
+        href: "/blog.github.io/projects/",
+        title: "Projects",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 11,
+        tag: "es",
+        href: "/blog.github.io/projects/sample-project/",
+        title: "Sample project",
+        description: "A sample project.",
+        
+        
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      })
+      .add(
+      
+      
+      {
+        id: 12,
+        tag: "es",
+        href: "/blog.github.io/blog/second-post/",
+        title: "Second post",
+        description: "This is my second blog post.",
+        
+        
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.\nNunc eget dignissim ex, sed lobortis leo. Suspendisse mollis posuere tellus, in viverra nunc ullamcorper vitae. Nam vel tempor arcu, in imperdiet odio. Fusce malesuada vehicula odio, in iaculis nulla congue eget. Quisque id odio id nisl facilisis posuere porta sit amet mauris. Curabitur lorem leo, tempus id rhoncus eget, placerat vitae lectus. Morbi eu aliquet enim. Nulla malesuada laoreet sodales.\nNunc volutpat dui in elit euismod, sed egestas purus tristique. Nam in condimentum mauris. Praesent nec suscipit enim. Aliquam dolor ipsum, faucibus vitae purus ac, congue egestas nisi. Donec hendrerit erat eu arcu porttitor rhoncus. Nunc a odio bibendum metus semper pellentesque. Sed at sapien ut est semper eleifend. Aliquam lorem libero, porttitor nec tristique ut, auctor vitae ipsum. Suspendisse pretium pharetra rutrum. Nulla tincidunt tempus enim eu sagittis. Maecenas pulvinar metus a urna mattis dictum sed id tellus."
+      })
+      .add(
+      
+      
+      {
+        id: 13,
+        tag: "es",
+        href: "/blog.github.io/about/",
+        title: "Sobre",
+        description: "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        
+        
+        content: "\u0026nbsp; Bootstrap framework\nBuild fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. \u0026nbsp; Full text search\nSearch your site with FlexSearch, a full-text search library with zero dependencies. \u0026nbsp; Development tools\nUse Node Package Manager to automate the build process and to keep track of dependencies. Additional features include:\nSwitching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions .tickmark"
+      })
+      .add(
+      
+      
+      {
+        id: 14,
+        tag: "es",
         href: "/blog.github.io/tags/",
         title: "Tags",
         description: "",
@@ -6545,14 +6688,14 @@ function initIndex() {
       
       
       {
-        id: 4,
-        tag: "en",
-        href: "/blog.github.io/",
-        title: "Welcome to Hinode!",
-        description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        id: 15,
+        tag: "es",
+        href: "/blog.github.io/blog/third-post/",
+        title: "Third post",
+        description: "This is my third blog post.",
         
         
-        content: ""
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.\nNulla molestie ultrices vehicula. Etiam iaculis, erat a blandit blandit, nulla tellus dapibus ligula, vitae venenatis turpis diam non felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu in justo iaculis egestas. In imperdiet arcu vitae pharetra commodo. Quisque ut erat eget nisl semper laoreet vitae eget ligula. Mauris bibendum purus nec vulputate faucibus. In luctus sagittis ante, quis laoreet orci bibendum vitae. Nam at odio accumsan, tincidunt eros at, lacinia metus. In et ultricies sapien, a mollis est. Nunc convallis orci eu tristique euismod. Proin vel ullamcorper diam. Quisque et semper orci. Proin pharetra lorem justo, id malesuada erat feugiat sit amet. Praesent bibendum mi at lorem volutpat suscipit. Morbi sed libero elit.\nNunc sodales est eu ipsum volutpat, in mollis dui facilisis. Nulla faucibus interdum lectus, a condimentum elit vulputate eu. Nunc ipsum risus, suscipit sit amet nulla ac, pulvinar maximus nulla. In venenatis diam erat, non elementum ante dignissim posuere. Aliquam sem justo, luctus at vestibulum ut, egestas ut quam. Quisque a dolor viverra, aliquam nunc vel, lacinia nulla. In id magna magna. Morbi dapibus pretium sollicitudin. Morbi volutpat augue at felis tristique, quis euismod tellus vulputate. Morbi dui lacus, aliquam eget quam vel, vestibulum faucibus enim. Proin porta pretium metus id venenatis. Aliquam nec tempor lorem. Vivamus euismod est varius sagittis placerat. Maecenas tincidunt elementum libero, at imperdiet elit feugiat vel."
       })
       ;
   
