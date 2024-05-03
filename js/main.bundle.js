@@ -6587,7 +6587,7 @@ function initIndex() {
         id: 7,
         tag: "es",
         href: "/blog.github.io/",
-        title: "Hola to Hinode!",
+        title: "Hola descripcion de mama ?",
         description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
         
         

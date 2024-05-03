@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Coaching con ciencia</title>
-    <link>http://localhost:1313/blog.github.io/blog/</link>
+    <link>https://lolivera86.github.io/blog.github.io/blog/</link>
     <description>Recent content in Blog on Coaching con ciencia</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lolivera86.github.io/blog.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth post (excluded from search)</title>
-      <link>http://localhost:1313/blog.github.io/blog/fourth-post/</link>
+      <link>https://lolivera86.github.io/blog.github.io/blog/fourth-post/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/fourth-post/</guid>
+      <guid>https://lolivera86.github.io/blog.github.io/blog/fourth-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus libero in felis accumsan, vitae imperdiet metus vehicula. Quisque nec dignissim purus.</description>
     </item>
     <item>
       <title>Third post</title>
-      <link>http://localhost:1313/blog.github.io/blog/third-post/</link>
+      <link>https://lolivera86.github.io/blog.github.io/blog/third-post/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/third-post/</guid>
+      <guid>https://lolivera86.github.io/blog.github.io/blog/third-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in.</description>
     </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:1313/blog.github.io/blog/second-post/</link>
+      <link>https://lolivera86.github.io/blog.github.io/blog/second-post/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/second-post/</guid>
+      <guid>https://lolivera86.github.io/blog.github.io/blog/second-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum.</description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/blog.github.io/blog/first-post/</link>
+      <link>https://lolivera86.github.io/blog.github.io/blog/first-post/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/first-post/</guid>
+      <guid>https://lolivera86.github.io/blog.github.io/blog/first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum.</description>
     </item>
   </channel>
