@@ -41,7 +41,7 @@
       <link>http://localhost:1313/blog.github.io/about/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog.github.io/about/</guid>
-      <description> &amp;nbsp; Bootstrap framework&#xA;Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. &amp;nbsp; Full text search&#xA;Search your site with FlexSearch, a full-text search library with zero dependencies. &amp;nbsp; Development tools&#xA;Use Node Package Manager to automate the build process and to keep track of dependencies. Additional features include:&#xA;Switching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions </description>
+      <description>Additional features include:&#xA;Switching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions </description>
     </item>
     <item>
       <title>Another project</title>
