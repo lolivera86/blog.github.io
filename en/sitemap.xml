@@ -5,8 +5,18 @@
     <loc>http://localhost:1313/blog.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
+                hreflang="es"
                 href="http://localhost:1313/blog.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/blog.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/blog.github.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,8 +27,18 @@
     <loc>http://localhost:1313/blog.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
+                hreflang="es"
                 href="http://localhost:1313/blog.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/blog.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/blog.github.io/nl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -29,8 +49,18 @@
     <loc>http://localhost:1313/blog.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
+                hreflang="es"
                 href="http://localhost:1313/blog.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/blog.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/blog.github.io/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
