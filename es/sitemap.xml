@@ -20,16 +20,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/blog.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/blog.github.io/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog.github.io/"
                 />
@@ -40,16 +30,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/blog.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/blog.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/blog.github.io/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -97,16 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/blog.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/blog.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/blog.github.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"

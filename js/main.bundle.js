@@ -6533,45 +6533,6 @@ function initIndex() {
       
       {
         id: 3,
-        tag: "nl",
-        href: "/blog.github.io/nl/categories/",
-        title: "Categories",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 4,
-        tag: "fr",
-        href: "/blog.github.io/fr/categories/",
-        title: "Categories",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 5,
-        tag: "en",
-        href: "/blog.github.io/en/categories/",
-        title: "Categories",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 6,
         tag: "es",
         href: "/blog.github.io/categories/",
         title: "Categories",
@@ -6584,46 +6545,7 @@ function initIndex() {
       
       
       {
-        id: 7,
-        tag: "nl",
-        href: "/blog.github.io/nl/",
-        title: "Coaching con ciencia",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 8,
-        tag: "fr",
-        href: "/blog.github.io/fr/",
-        title: "Coaching con ciencia",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 9,
-        tag: "en",
-        href: "/blog.github.io/en/",
-        title: "Coaching con ciencia",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 10,
+        id: 4,
         tag: "es",
         href: "/blog.github.io/tags/css/",
         title: "Css",
@@ -6636,7 +6558,7 @@ function initIndex() {
       
       
       {
-        id: 11,
+        id: 5,
         tag: "es",
         href: "/blog.github.io/blog/first-post/",
         title: "First post",
@@ -6649,7 +6571,7 @@ function initIndex() {
       
       
       {
-        id: 12,
+        id: 6,
         tag: "es",
         href: "/blog.github.io/tags/golang/",
         title: "Golang",
@@ -6662,7 +6584,7 @@ function initIndex() {
       
       
       {
-        id: 13,
+        id: 7,
         tag: "es",
         href: "/blog.github.io/",
         title: "Hola descripcion de mama ?",
@@ -6675,7 +6597,7 @@ function initIndex() {
       
       
       {
-        id: 14,
+        id: 8,
         tag: "es",
         href: "/blog.github.io/tags/html/",
         title: "Html",
@@ -6688,7 +6610,7 @@ function initIndex() {
       
       
       {
-        id: 15,
+        id: 9,
         tag: "es",
         href: "/blog.github.io/tags/javascript/",
         title: "Javascript",
@@ -6701,7 +6623,7 @@ function initIndex() {
       
       
       {
-        id: 16,
+        id: 10,
         tag: "es",
         href: "/blog.github.io/projects/",
         title: "Projects",
@@ -6714,7 +6636,7 @@ function initIndex() {
       
       
       {
-        id: 17,
+        id: 11,
         tag: "es",
         href: "/blog.github.io/projects/sample-project/",
         title: "Sample project",
@@ -6727,7 +6649,7 @@ function initIndex() {
       
       
       {
-        id: 18,
+        id: 12,
         tag: "es",
         href: "/blog.github.io/blog/second-post/",
         title: "Second post",
@@ -6740,7 +6662,7 @@ function initIndex() {
       
       
       {
-        id: 19,
+        id: 13,
         tag: "es",
         href: "/blog.github.io/about/",
         title: "Sobre",
@@ -6753,7 +6675,7 @@ function initIndex() {
       
       
       {
-        id: 20,
+        id: 14,
         tag: "es",
         href: "/blog.github.io/tags/",
         title: "Tags",
@@ -6766,46 +6688,7 @@ function initIndex() {
       
       
       {
-        id: 21,
-        tag: "nl",
-        href: "/blog.github.io/nl/tags/",
-        title: "Tags",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 22,
-        tag: "fr",
-        href: "/blog.github.io/fr/tags/",
-        title: "Tags",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 23,
-        tag: "en",
-        href: "/blog.github.io/en/tags/",
-        title: "Tags",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 24,
+        id: 15,
         tag: "es",
         href: "/blog.github.io/blog/third-post/",
         title: "Third post",
