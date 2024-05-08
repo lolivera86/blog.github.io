@@ -6495,6 +6495,19 @@ function initIndex() {
       {
         id: 0,
         tag: "es",
+        href: "/blog.github.io/projects/",
+        title: "Aca puede ir gente que hayas atendido",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 1,
+        tag: "es",
         href: "/blog.github.io/projects/another-project/",
         title: "Another project",
         description: "Another project.",
@@ -6506,7 +6519,7 @@ function initIndex() {
       
       
       {
-        id: 1,
+        id: 2,
         tag: "es",
         href: "/blog.github.io/tags/blog/",
         title: "Blog",
@@ -6519,10 +6532,10 @@ function initIndex() {
       
       
       {
-        id: 2,
+        id: 3,
         tag: "es",
         href: "/blog.github.io/blog/",
-        title: "Blog",
+        title: "Blog ( aca podes escribir cosas )",
         description: "",
         
         
@@ -6532,7 +6545,7 @@ function initIndex() {
       
       
       {
-        id: 3,
+        id: 4,
         tag: "es",
         href: "/blog.github.io/categories/",
         title: "Categories",
@@ -6545,7 +6558,20 @@ function initIndex() {
       
       
       {
-        id: 4,
+        id: 5,
+        tag: "es",
+        href: "/blog.github.io/",
+        title: "Conciencia Coach",
+        description: "Un espacio para recordar y mirar hacia el futuro.",
+        
+        
+        content: "Certificación Internacional Experta en Coaching Personal y Ejecutivo \u0026nbsp; Te acompaño en el proceso para cumplir tus Objetivos. Coaching es el arte de conversaciones. Conversar, escuchar, estar presente, se trata como decía Sócrates avanzar a través de preguntas, reflexión, tomar conciencia. El camino definir la dirección hacia donde quieres ir, buscando dentro tuyo las respuestas, para alcanzar tus objetivos y en el Camino encontraras las respuestas. Tanto a nivel personal, ejecutivo o equipos.\nPara afrontar las problemáticas en tu vida, ya sea personal, profesional, equipo de trabajo. Estoy para acompañarte a conocerte y actuar desde esos descubrimientos, realizado con amor, con responsabilidad, autoconocimiento y compromiso. ¿Tienes ganas de mejorar, de conocerte, tomar conciencia, desarrollando tus potenciales para lograr tus objetivos?"
+      })
+      .add(
+      
+      
+      {
+        id: 6,
         tag: "es",
         href: "/blog.github.io/tags/css/",
         title: "Css",
@@ -6558,37 +6584,11 @@ function initIndex() {
       
       
       {
-        id: 5,
-        tag: "es",
-        href: "/blog.github.io/blog/first-post/",
-        title: "First post",
-        description: "This is my first blog post.",
-        
-        
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.\nIn ac lobortis diam. Curabitur id dui ac nunc mattis rhoncus a sed lorem. Sed lobortis sem turpis, at posuere enim dignissim et. Vivamus fermentum justo quis volutpat volutpat. Proin eget vehicula neque, ut tempus urna. Duis ac ex vel leo pharetra lobortis et vitae lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Suspendisse ullamcorper ultrices elementum. Suspendisse mi elit, commodo at varius a, cursus a ligula. Sed et mattis elit, eu luctus arcu. Cras a porttitor libero. Vestibulum tincidunt sed magna at dapibus. Sed quis orci eu lacus aliquam tristique. Integer porttitor ultrices ipsum quis porttitor. Etiam a sodales ligula."
-      })
-      .add(
-      
-      
-      {
-        id: 6,
+        id: 7,
         tag: "es",
         href: "/blog.github.io/tags/golang/",
         title: "Golang",
         description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 7,
-        tag: "es",
-        href: "/blog.github.io/",
-        title: "Hola descripcion de mama ?",
-        description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
         
         
         content: ""
@@ -6612,12 +6612,12 @@ function initIndex() {
       {
         id: 9,
         tag: "es",
-        href: "/blog.github.io/tags/javascript/",
-        title: "Javascript",
-        description: "",
+        href: "/blog.github.io/blog/first-post/",
+        title: "Introduction",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet.",
         
         
-        content: ""
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.\nIn ac lobortis diam. Curabitur id dui ac nunc mattis rhoncus a sed lorem. Sed lobortis sem turpis, at posuere enim dignissim et. Vivamus fermentum justo quis volutpat volutpat. Proin eget vehicula neque, ut tempus urna. Duis ac ex vel leo pharetra lobortis et vitae lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Suspendisse ullamcorper ultrices elementum. Suspendisse mi elit, commodo at varius a, cursus a ligula. Sed et mattis elit, eu luctus arcu. Cras a porttitor libero. Vestibulum tincidunt sed magna at dapibus. Sed quis orci eu lacus aliquam tristique. Integer porttitor ultrices ipsum quis porttitor. Etiam a sodales ligula."
       })
       .add(
       
@@ -6625,8 +6625,8 @@ function initIndex() {
       {
         id: 10,
         tag: "es",
-        href: "/blog.github.io/projects/",
-        title: "Projects",
+        href: "/blog.github.io/tags/javascript/",
+        title: "Javascript",
         description: "",
         
         
@@ -6665,11 +6665,11 @@ function initIndex() {
         id: 13,
         tag: "es",
         href: "/blog.github.io/about/",
-        title: "Sobre",
-        description: "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        title: "Sobre María Cristina Moncalvo",
+        description: "Descubre la trayectoria profesional y académica de María Cristina Moncalvo, una experta en psicología, psicopedagogía y coaching personal y ejecutivo. Conoce sus estudios, experiencia laboral y participación en cursos y actividades académicas.",
         
         
-        content: "\u0026nbsp; Bootstrap framework\nBuild fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. \u0026nbsp; Full text search\nSearch your site with FlexSearch, a full-text search library with zero dependencies. \u0026nbsp; Development tools\nUse Node Package Manager to automate the build process and to keep track of dependencies. Additional features include:\nSwitching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions"
+        content: "Estudios y Formación \u0026nbsp; Profesorado Especializado en Educación Primaria Maestra Especializada en Educación Primaria con especialización en Informática Educativa Licenciatura en Psicopedagogía (Universidad del Salvador) Licenciatura en Psicología (Universidad de la Marina Mercante) Posgrados en Coaching Personal y Profesional, Psicooncología, Rorschach, Terapias Breves, entre otros. Experiencia Laboral Destacada \u0026nbsp; Consultorio privado como Coach Personal y Ejecutivo. Coordinadora del equipo de violencia familiar y minoridad en el Municipio de Escobar. Experiencia en psiconcología en el Grupo Plaza. Trabajo en diversos hospitales y consultorios externos, especializándose en áreas como psicooncología, violencia familiar y terapia familiar. Directora de Centro de Estudios Múltiples. Experiencia docente en colegios y en la creación y dirección de revistas especializadas. Cursos y Participación Académica \u0026nbsp; Participación en numeros"
       })
       .add(
       
