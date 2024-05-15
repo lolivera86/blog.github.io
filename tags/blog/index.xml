@@ -6,28 +6,14 @@
     <description>Recent content in Blog on Coaching con ciencia</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fourth post (excluded from search)</title>
-      <link>http://localhost:1313/blog.github.io/blog/fourth-post/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/fourth-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus libero in felis accumsan, vitae imperdiet metus vehicula. Quisque nec dignissim purus. In id dui porta sapien posuere viverra nec vel nisi. Sed varius tincidunt lectus, quis sagittis felis interdum id. Proin purus odio, ultrices auctor libero convallis, volutpat gravida turpis. Ut commodo metus orci, quis sagittis lectus rhoncus non. Nulla et lectus tortor. Suspendisse quam felis, molestie non odio quis, consequat venenatis orci.</description>
-    </item>
-    <item>
-      <title>Third post</title>
-      <link>http://localhost:1313/blog.github.io/blog/third-post/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/third-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.&#xA;Nulla molestie ultrices vehicula. Etiam iaculis, erat a blandit blandit, nulla tellus dapibus ligula, vitae venenatis turpis diam non felis.</description>
-    </item>
-    <item>
-      <title>Second post</title>
-      <link>http://localhost:1313/blog.github.io/blog/second-post/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog.github.io/blog/second-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.&#xA;Nunc eget dignissim ex, sed lobortis leo.</description>
+      <title>¿Quién soy?</title>
+      <link>http://localhost:1313/blog.github.io/blog/first-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog.github.io/blog/first-post/</guid>
+      <description>PERSONAS más motivados, entornos personal y laborales más inspiradores. Ese es mi compromiso. 🌟&#xA;Cuidar de vos y tu equipo laboral. Procurar que las personas y equipos sean felices es el camino más corto hacia el éxito. 🌈 Te ayudo a desarrollar alto rendimiento en tu vida personal y laboral. Adquirir habilidades para la vida, el liderazgo, habilidades sociales y desarrollar la inteligencia emocional es esencial para los seres humanos en todas las áreas, superar dificultades, conseguir grandes metas, convertirse seres felices, ya sea en lo privado como en lo laboral.</description>
     </item>
   </channel>
 </rss>

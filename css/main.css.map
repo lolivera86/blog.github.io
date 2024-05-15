@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "/Users/esjhlo00/Documents/10_blog_hugo/blog",
 	"sources": [
-		"scss/bundle-1715198384878776000.scss",
+		"scss/bundle-1715797063979429000.scss",
 		"hugo:vars",
 		"assets/scss/common/_variables.scss",
 		"assets/scss/theme/_variables.scss",

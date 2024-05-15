@@ -6495,31 +6495,18 @@ function initIndex() {
       {
         id: 0,
         tag: "es",
-        href: "/blog.github.io/projects/",
-        title: "Aca puede ir gente que hayas atendido",
-        description: "",
+        href: "/blog.github.io/blog/first-post/",
+        title: "¿Quién soy?",
+        description: "Viaje transformador del desarrollo personal y profesional a través de sesiones de coaching empoderadoras",
         
         
-        content: ""
+        content: "PERSONAS más motivados, entornos personal y laborales más inspiradores. Ese es mi compromiso. 🌟\nCuidar de vos y tu equipo laboral. Procurar que las personas y equipos sean felices es el camino más corto hacia el éxito. 🌈 Te ayudo a desarrollar alto rendimiento en tu vida personal y laboral. Adquirir habilidades para la vida, el liderazgo, habilidades sociales y desarrollar la inteligencia emocional es esencial para los seres humanos en todas las áreas, superar dificultades, conseguir grandes metas, convertirse seres felices, ya sea en lo privado como en lo laboral. 🚀 La felicidad y el éxito van de la mano. 🤝 Que las personas aprendan y desarrollen estas habilidades marcará un antes y un después. 🌱\nA lo largo de mi vida profesional he trabajado en entornos en los que el ambiente laboral y personales donde era negativo, tenso, faltaba comunicación, era habitual la descoordinación, la desmotivación, el estrés y las ganas de irse a casa cuanto antes. 🏢\nEn la vida laboral, social, personal lo más importante son las personas. Siempre lo han sido y siempre lo serán. De poco sirven las habilidades técnicas o personas muy preparadas si después no saben gestionar su tiempo, energía, prioridades, emociones, motivación, frustración, estrés, enfados y son incapaces de generar ambientes de trabajo positivos. 💼 Cuando una persona adquiere habilidades personales está más cerca de convertirse en un profesional que aporta valor tanto por sus conocimientos técnicos y experiencia, como por su forma de ser. 🎓 El reto consiste en sacar a relucir lo mejor de uno mismo cuando las situaciones son complicadas y ponerlo al servicio del equipo y de la empresa. Resiliencia! 💪 A día de hoy, y tras años de experiencia, sé que combinar las habilidades técnicas con otro tipo de habilidades es indispensable para que en las empresas trabajen personas que sepan superar dificultades, conseguir grandes metas, convertirse en equipos de alto rendimiento y ser felices trabajando. 🌟 La felicidad y el éxito van de la mano. 🌈 Que las personas aprendan y desarrollen estas habilidades marcará un antes y un después tanto en la persona como en la organización. 🌱\nSoy María Cristina Moncalvo, Couch Internacional Experto en Coaching Përsonal y Ejecutivo, Liderazgo Personal y Profesional, Profesora de nivel primario con especialización en informática.. También soy Lic. En Psicología, Lic. En Psicopedagogía . (Universidad del Salvador), (Universidad de la Marina Mercante) Amo trabajar con personas, escuchar, empatizar y promover un cambio positivo en ellas. 🎉 A través de las sesiones se ejerce un diálogo constructivo muy especial en el cual se desarrolla el pensamiento y la percepción necesaria para experimentar aquellos cambios profundos y duraderos necesarios para llegar al objetivo buscado. 🗣️ Algunos de los temas más tratados en mis sesiones suelen ser:\nSuperación de conflictos tanto internos (dudas, contradicciones, confusión) como externos (problemas en el trabajo, con tu pareja, hijos). Mejora de aspectos disonantes en tu vida. Descubrimiento de nuevas maneras de accionar obteniendo resultados diferentes. Descubrimiento y aceptación de uno mismo. Eliminación de bloqueos y miedos que impiden conseguir objetivos. Gestión emocional. Explorar y revisar creencias limitantes. Desarrollo de autoestima, poder personal y carisma. Cultivar el poder personal, y construir relaciones de éxito. 🌱 Coaching personal es, en las personas, el arte de sacar a la luz la mejor versión de ellas mismas. 💡 Te espero para que iniciar el viaje más alucinante y sorprendente que harás, y desde el auto- descubrimiento y también de auto-conocimiento, re- conocer que todas las respuestas están en ti y en ningún otro lugar. 🌌\n¿Preparado para potenciar tus habilidades y lograr los mejores resultados? Date oportunidad única para trabajar en ti y transformar tu vida en todos tus ámbitos. 🌟 Mi enfoque personalizado te permitirá desbloquear tu máximo potencial y superar cualquier obstáculo. 🚀 Te escucho!!! 👂"
       })
       .add(
       
       
       {
         id: 1,
-        tag: "es",
-        href: "/blog.github.io/projects/another-project/",
-        title: "Another project",
-        description: "Another project.",
-        
-        
-        content: "Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis. Nunc ut libero sapien. Vivamus aliquam ultrices vestibulum. Sed sit amet vestibulum dolor, ut vehicula diam. Sed felis purus, feugiat vitae vulputate quis, sodales vitae dui. Pellentesque volutpat fringilla sapien varius condimentum. Integer odio massa, pharetra at bibendum vitae, aliquam nec erat."
-      })
-      .add(
-      
-      
-      {
-        id: 2,
         tag: "es",
         href: "/blog.github.io/tags/blog/",
         title: "Blog",
@@ -6532,10 +6519,10 @@ function initIndex() {
       
       
       {
-        id: 3,
+        id: 2,
         tag: "es",
         href: "/blog.github.io/blog/",
-        title: "Blog ( aca podes escribir cosas )",
+        title: "Blog",
         description: "",
         
         
@@ -6545,7 +6532,7 @@ function initIndex() {
       
       
       {
-        id: 4,
+        id: 3,
         tag: "es",
         href: "/blog.github.io/categories/",
         title: "Categories",
@@ -6558,111 +6545,20 @@ function initIndex() {
       
       
       {
-        id: 5,
+        id: 4,
         tag: "es",
         href: "/blog.github.io/",
-        title: "Conciencia Coach",
-        description: "Un espacio para recordar y mirar hacia el futuro.",
+        title: "CONCIENCIA",
+        description: "COACH PERSONAL Y EJECUTIVO",
         
         
-        content: "Certificación Internacional Experta en Coaching Personal y Ejecutivo \u0026nbsp; Te acompaño en el proceso para cumplir tus Objetivos. Coaching es el arte de conversaciones. Conversar, escuchar, estar presente, se trata como decía Sócrates avanzar a través de preguntas, reflexión, tomar conciencia. El camino definir la dirección hacia donde quieres ir, buscando dentro tuyo las respuestas, para alcanzar tus objetivos y en el Camino encontraras las respuestas. Tanto a nivel personal, ejecutivo o equipos.\nPara afrontar las problemáticas en tu vida, ya sea personal, profesional, equipo de trabajo. Estoy para acompañarte a conocerte y actuar desde esos descubrimientos, realizado con amor, con responsabilidad, autoconocimiento y compromiso. ¿Tienes ganas de mejorar, de conocerte, tomar conciencia, desarrollando tus potenciales para lograr tus objetivos?"
+        content: "El poder del coach es la pregunta, y tu poder es la respuesta, porque nadie mejor que tú se conoce \u0026nbsp; MEJORA LOS RESULTADOS Y LA COMPETITIVIDAD DE TU LIDERAZGO LABORAL O/Y PERSONAL \u0026nbsp; ¡Eleva tu empresa o a nivel personal al máximo nivel! Como coach Personal y Ejecutivo, Liderazgo Personal y Profesional mejoraras tus resultados. Desarrolla liderazgo, y trabajo en equipo para alcanzar el éxito Personal en todos los ámbitos de tu vida ."
       })
       .add(
       
       
       {
-        id: 6,
-        tag: "es",
-        href: "/blog.github.io/tags/css/",
-        title: "Css",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 7,
-        tag: "es",
-        href: "/blog.github.io/tags/golang/",
-        title: "Golang",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 8,
-        tag: "es",
-        href: "/blog.github.io/tags/html/",
-        title: "Html",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 9,
-        tag: "es",
-        href: "/blog.github.io/blog/first-post/",
-        title: "Introduction",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet.",
-        
-        
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.\nIn ac lobortis diam. Curabitur id dui ac nunc mattis rhoncus a sed lorem. Sed lobortis sem turpis, at posuere enim dignissim et. Vivamus fermentum justo quis volutpat volutpat. Proin eget vehicula neque, ut tempus urna. Duis ac ex vel leo pharetra lobortis et vitae lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Suspendisse ullamcorper ultrices elementum. Suspendisse mi elit, commodo at varius a, cursus a ligula. Sed et mattis elit, eu luctus arcu. Cras a porttitor libero. Vestibulum tincidunt sed magna at dapibus. Sed quis orci eu lacus aliquam tristique. Integer porttitor ultrices ipsum quis porttitor. Etiam a sodales ligula."
-      })
-      .add(
-      
-      
-      {
-        id: 10,
-        tag: "es",
-        href: "/blog.github.io/tags/javascript/",
-        title: "Javascript",
-        description: "",
-        
-        
-        content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 11,
-        tag: "es",
-        href: "/blog.github.io/projects/sample-project/",
-        title: "Sample project",
-        description: "A sample project.",
-        
-        
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      })
-      .add(
-      
-      
-      {
-        id: 12,
-        tag: "es",
-        href: "/blog.github.io/blog/second-post/",
-        title: "Second post",
-        description: "This is my second blog post.",
-        
-        
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.\nNunc eget dignissim ex, sed lobortis leo. Suspendisse mollis posuere tellus, in viverra nunc ullamcorper vitae. Nam vel tempor arcu, in imperdiet odio. Fusce malesuada vehicula odio, in iaculis nulla congue eget. Quisque id odio id nisl facilisis posuere porta sit amet mauris. Curabitur lorem leo, tempus id rhoncus eget, placerat vitae lectus. Morbi eu aliquet enim. Nulla malesuada laoreet sodales.\nNunc volutpat dui in elit euismod, sed egestas purus tristique. Nam in condimentum mauris. Praesent nec suscipit enim. Aliquam dolor ipsum, faucibus vitae purus ac, congue egestas nisi. Donec hendrerit erat eu arcu porttitor rhoncus. Nunc a odio bibendum metus semper pellentesque. Sed at sapien ut est semper eleifend. Aliquam lorem libero, porttitor nec tristique ut, auctor vitae ipsum. Suspendisse pretium pharetra rutrum. Nulla tincidunt tempus enim eu sagittis. Maecenas pulvinar metus a urna mattis dictum sed id tellus."
-      })
-      .add(
-      
-      
-      {
-        id: 13,
+        id: 5,
         tag: "es",
         href: "/blog.github.io/about/",
         title: "Sobre María Cristina Moncalvo",
@@ -6675,7 +6571,7 @@ function initIndex() {
       
       
       {
-        id: 14,
+        id: 6,
         tag: "es",
         href: "/blog.github.io/tags/",
         title: "Tags",
@@ -6683,19 +6579,6 @@ function initIndex() {
         
         
         content: ""
-      })
-      .add(
-      
-      
-      {
-        id: 15,
-        tag: "es",
-        href: "/blog.github.io/blog/third-post/",
-        title: "Third post",
-        description: "This is my third blog post.",
-        
-        
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.\nNulla molestie ultrices vehicula. Etiam iaculis, erat a blandit blandit, nulla tellus dapibus ligula, vitae venenatis turpis diam non felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu in justo iaculis egestas. In imperdiet arcu vitae pharetra commodo. Quisque ut erat eget nisl semper laoreet vitae eget ligula. Mauris bibendum purus nec vulputate faucibus. In luctus sagittis ante, quis laoreet orci bibendum vitae. Nam at odio accumsan, tincidunt eros at, lacinia metus. In et ultricies sapien, a mollis est. Nunc convallis orci eu tristique euismod. Proin vel ullamcorper diam. Quisque et semper orci. Proin pharetra lorem justo, id malesuada erat feugiat sit amet. Praesent bibendum mi at lorem volutpat suscipit. Morbi sed libero elit.\nNunc sodales est eu ipsum volutpat, in mollis dui facilisis. Nulla faucibus interdum lectus, a condimentum elit vulputate eu. Nunc ipsum risus, suscipit sit amet nulla ac, pulvinar maximus nulla. In venenatis diam erat, non elementum ante dignissim posuere. Aliquam sem justo, luctus at vestibulum ut, egestas ut quam. Quisque a dolor viverra, aliquam nunc vel, lacinia nulla. In id magna magna. Morbi dapibus pretium sollicitudin. Morbi volutpat augue at felis tristique, quis euismod tellus vulputate. Morbi dui lacus, aliquam eget quam vel, vestibulum faucibus enim. Proin porta pretium metus id venenatis. Aliquam nec tempor lorem. Vivamus euismod est varius sagittis placerat. Maecenas tincidunt elementum libero, at imperdiet elit feugiat vel."
       })
       ;
   
